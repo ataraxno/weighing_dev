@@ -8,7 +8,7 @@
 *.png
 *.jpg
 *.v2
-.ipynb_checkpoints
+.ipynb_checkpoints/
 
 # Compiled source #
 ###################
