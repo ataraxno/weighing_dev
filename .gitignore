@@ -8,7 +8,10 @@
 *.png
 *.jpg
 *.v2
+*.h264
 .ipynb_checkpoints/
+checkpoints/
+tmp/
 
 # Compiled source #
 ###################
